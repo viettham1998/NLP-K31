@@ -50,7 +50,7 @@ Kết quả các thử nghiệm kết hợp mô hình SVM và các đặc trưng
 | TfidfVectorizer(ngram_range=(1, 2), max_df=0.8) | **92.37**|**92.37**|
 | Mô hình kết hợp phoBert                         | 85.05    | 85.05   |
 
--Trên bộ dữ liệu Foody
+- Trên bộ dữ liệu Foody
 | Mô hình                                         | F1 %     |Accuracy |
 |-------------------------------------------------|----------|---------|
 | TfidfVectorizer(ngram_range=(1, 2), max_df=0.8) | **87.41**|**87.41**|
@@ -60,4 +60,4 @@ Kết quả các thử nghiệm kết hợp mô hình SVM và các đặc trưng
 ## Lời cảm ơn
 Xin chân thành cảm ơn các nhóm phát triển sklearn, fasttext đã tạo ra những công cụ hữu ích để nhóm sử dụng trong các thử nghiệm của mình. Nhóm xin chân thành cảm ơn mã nguồn đã chia sẻ từ nhóm UndertheSea cũng như những đóng góp của nhóm UndertheSea dành cho cộng đồng.
 
-Dự án sử dụng tập dữ liệu **[VNTC](https://github.com/duyvuleo/VNTC)** và **[Foody](https://streetcodevn.com/blog/dataset)**trong các thử nghiệm. Xin vui lòng kiểm tra lại thông tin trên website hoặc báo cáo khoa học tương ứng để biết thông tin về bản quyền và trích dẫn khi sử dụng tập dữ liệu này.
+Dự án sử dụng tập dữ liệu **[VNTC](https://github.com/duyvuleo/VNTC)** và **[Foody](https://streetcodevn.com/blog/dataset)** trong các thử nghiệm. Xin vui lòng kiểm tra lại thông tin trên website hoặc báo cáo khoa học tương ứng để biết thông tin về bản quyền và trích dẫn khi sử dụng tập dữ liệu này.
